@@ -8,7 +8,7 @@ path: blog
 ---
 In an age where our digital footprints perpetually expand, understanding the intrinsic worth and applications of our personal data has never been more pivotal.
 
-![background 1.png](assets/background 1-57eab2ad5f27b7c8e347b37a67826745.png)
+![background 1.png](/assets/background 1-57eab2ad5f27b7c8e347b37a67826745.png)
 
 If you're short on time, here's everything you need to know about the data economy, the value of your data and data marketplaces:
 
