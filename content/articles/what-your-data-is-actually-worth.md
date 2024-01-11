@@ -4,12 +4,12 @@ tags:
   - personal-data
 Related: 
 title: What Your Data is actually worth
-path: blog
+path: articles
 slug: what-your-data-is-actually-worth
 ---
-> Read this article on [www.datapods.app](https://www.datapods.app/blogs/what-your-data-is-actually-worth)
-
 In an age where our digital footprints perpetually expand, understanding the intrinsic worth and applications of our personal data has never been more pivotal.
+
+> Read this article on [www.datapods.app](https://www.datapods.app/blogs/what-your-data-is-actually-worth)
 
 ![data-worth-blog-image.png](/assets/data-worth-blog-image-61c86d5cd94666ab2af4d566613716ee.png)
 
