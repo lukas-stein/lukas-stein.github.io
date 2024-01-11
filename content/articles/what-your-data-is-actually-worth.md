@@ -46,7 +46,7 @@ For example, general information about an individual, such as age, gender and lo
 
 Prices for your other data vary mainly depending on demographics. For example, information on men is worth USD 0.15, slightly more than information on women (USD 0.14). Data from people with a higher income is generally worth more - With one exception, if your household earns less than \$10,000 per year, companies will pay more for your data than for a family with an income of up to \$120,000. This is probably because companies think you are a young student who is more likely to talk about products on social media. [^8]
 
-The high value placed on social influence could also be observed somewhere else: Klout was a platform that used social media analytics to rate the social influence of its users through a "Klout Score", based on network size and interactions with their content. Data on users with high social influence was sold by the site for around \$3 at the time. The company ceased operations in May 2018, with the introduction of new data protection regulations being a major factor. [^4],[^9]
+The high value placed on social influence could also be observed somewhere else: Klout was a platform that used social media analytics to rate the social influence of its users through a "Klout Score", based on network size and interactions with their content. Data on users with high social influence was sold by the site for around \$3 at the time. The company ceased operations in May 2018, with the introduction of new data protection regulations being a major factor. [^4][^9]
 
 Key determinants of it's price also include the quality and dimensionality of the data. The more I know about you, the more meaningful are the conclusions I can draw. The informative value of a data set that only contains your name is significantly lower than that of a data set that also contains your place of residence, your age, your occupation, your interests and your purchasing behaviour. High-dimensional data provides a richer picture and can be more valuable for analysis, prediction or targeted marketing.
 
@@ -62,7 +62,7 @@ To understand this, we first need to be clear about the difference between the p
 
 Facebook generates higher profits by using your personal data to run targeted advertising campaigns. A researcher, on the other hand, sees value in large data sets that help them identify patterns or trends. The subjective value that these two place on your personal shopping data will vary greatly. 
 
-A commonly used benchmark for the relevance of your personal data to social networks is the average revenue per user (ARPU) metric. Meta (Facebook + Instagram) generates \$235 in revenue per American user annually, almost exclusively for serving personalised ads. For EU citizens, it is significantly less at around USD 70 per user, although this figure probably varies greatly depending on the income of the member state. [^10],[^11]
+A commonly used benchmark for the relevance of your personal data to social networks is the average revenue per user (ARPU) metric. Meta (Facebook + Instagram) generates \$235 in revenue per American user annually, almost exclusively for serving personalised ads. For EU citizens, it is significantly less at around USD 70 per user, although this figure probably varies greatly depending on the income of the member state. [^10][^11]
 
 So not showing ads to an average user from a high-income country costs Meta around \$200. In fact, this figure is strikingly close to the price the company charges users for an ad-free experience. 
 
@@ -103,8 +103,6 @@ Businesses value your data because they can use it to generate profits. For adve
 The economic value that can be derived from personal data is immense. Companies are therefore increasingly willing to offer users money for their data if they are unable to obtain it in other ways, for example because regulation prevents them from doing so. As property rights shift from the companies that collect data to the users who generate it, the price of personal data is likely to increase.
 
 Our navigation through the digital world is increasingly informed by a recognition that our data is not only personal, but also a commodity with a specific, albeit variable, value. The future potentially holds a scenario where users are not just passive participants but informed actors, actively navigating, negotiating and perhaps even capitalising on the value of their digital selves. Data marketplaces where users sell their data directly to interested companies could help create a fairer and more transparent data economy. 
-
----
 
 [^1]: ‘Meta (Facebook / Instagram) to Move to a “Pay for Your Rights” Approach’. Accessed 25 October 2023. [https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach](https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach).
 

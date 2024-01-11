@@ -12,4 +12,5 @@ I am currently working on [Datapods](https://www.datapods.app/), a Startup I co-
 
 - Graduated from LSE with an MSc. in Economics
 - Valued Infrastructure Assets at FGS
+- Wrote my Bachelor's Thesis about a Russian Gas Storage Facility in Rehden
 - Co-founded [Science to Startup](https://www.s2s-bonn.de/), a student initiative for Start-ups with a focus on science
