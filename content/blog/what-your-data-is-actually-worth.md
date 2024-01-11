@@ -1,6 +1,7 @@
 ---
 tags:
   - datapods
+  - personal-data
 Related: 
 title: What Your Data is actually worth
 path: blog
@@ -13,7 +14,7 @@ In an age where our digital footprints perpetually expand, understanding the int
 If you're short on time, here's everything you need to know about the data economy, the value of your data and data marketplaces:
 
 - **Prices on the data market.** On the data market, data brokers sell user data for knockdown prices in the sub-cent range. The price of your data depends primarily on how companies assess your purchasing power and buying mood. The quality and dimensionality of the data also play a role.
-- **Value to businesses.** The value of your data is also subjective and depends on the buyer. Based on the ARPUs of large platform companies such as Meta or Google, as well as figures on the cost-effectiveness of online advertising, the value of your data to the online advertising industry can be estimated to be around $263 per year. Your medical data could be worth well over $100 per year for research. 
+- **Value to businesses.** The value of your data is also subjective and depends on the buyer. Based on the ARPUs of large platform companies such as Meta or Google, as well as figures on the cost-effectiveness of online advertising, the value of your data to the online advertising industry can be estimated to be around 263 USD per year. Your medical data could be worth well over 100 USD per year for research. 
 - **Value to the consumer.** When users are asked for how much they would auction off the data they generate on a daily basis, they quote between €1 and €3, depending on the type of data. This is far above the prices that companies currently pay for this data on the data market. This can be interpreted as a form of market failure, which is one of the reasons for the increase in government regulation (e.g. the GDPR) in this area.
 - **Future of the Data Economy.** As ownership of personal data shifts from the companies that collect it to the users that generate it, the price of personal data is expected to rise in the future. Data marketplaces could play a central role in this context: They enable users to economically participate in the value creation processes involving their data.
 
@@ -27,7 +28,7 @@ Big tech companies like Meta and Google make billions in profits every year by u
 
 ## The Data Paradox
 
-Finding a comprehensive answer to this question is anything but easy. The problem becomes clear when we look at the prices at which your personal data is traded. In the data broker market, your shopping data (i.e. data about your purchases and transactions) sells for a measly $0.001 [4]. On the other hand, Amazon's *Amazon Shopper Panel* programme offers selected users 10 USD per month for uploading invoices from other shops [5]. 
+Finding a comprehensive answer to this question is anything but easy. The problem becomes clear when we look at the prices at which your personal data is traded. In the data broker market, your shopping data (i.e. data about your purchases and transactions) sells for a measly \$0.001 [4]. On the other hand, Amazon's *Amazon Shopper Panel* programme offers selected users 10 USD per month for uploading invoices from other shops [5]. 
 
 Although in both cases essentially the same thing is being traded, the prices differ by a factor of hundreds of thousands. This is the data paradox: The value of your data seems to vary greatly depending on the context in which it is traded. By exploring this phenomenon, we gain a deeper understanding of the value of your data and gain insight into the world of the data markets. 
 
@@ -35,15 +36,15 @@ Although in both cases essentially the same thing is being traded, the prices di
 
 The easiest way to gain an understanding of the value of personal data is to look at the places where it is directly traded. Data brokers sell individual pieces of information about users to companies, advertisers and other organisations interested in reaching more specific audiences or learning more about their customer base. 
 
-This is an extremely profitable business. In 2022, the global market for databroker services was estimated at $247.4 billion. By 2028, this market is expected to reach a value of $407.5 billion. Acxiom, the largest player in this market, contributes to 12% of all direct marketing revenues with its data [3]. Another heavyweight in this industry is Equifax, which has collected payroll data from 38% of all Americans [6].
+This is an extremely profitable business. In 2022, the global market for databroker services was estimated at \$247.4 billion. By 2028, this market is expected to reach a value of \$407.5 billion. Acxiom, the largest player in this market, contributes to 12% of all direct marketing revenues with its data [3]. Another heavyweight in this industry is Equifax, which has collected payroll data from 38% of all Americans [6].
 
 This data can range from general demographic information to detailed shopping habits or online activity. The selling point varies depending on the type, quality and relevance of the data.
 
-For example, general information about an individual, such as age, gender and location, has a price of around $0.0005 per person. The data of people who are looking for a car, a financial product or a holiday, for example, is more expensive. If you want to buy a car, for example, companies pay around 0.0021 dollars for this information. The information that a woman is expecting a child increases the price to 0.11 dollar. [7]
+For example, general information about an individual, such as age, gender and location, has a price of around \$0.0005 per person. The data of people who are looking for a car, a financial product or a holiday, for example, is more expensive. If you want to buy a car, for example, companies pay around 0.0021 dollars for this information. The information that a woman is expecting a child increases the price to 0.11 dollar. [7]
 
-Prices for your other data vary mainly depending on demographics. For example, information on men is worth USD 0.15, slightly more than information on women (USD 0.14). Data from people with a higher income is generally worth more - With one exception, if your household earns less than $10,000 per year, companies will pay more for your data than for a family with an income of up to $120,000. This is probably because companies think you are a young student who is more likely to talk about products on social media. [8]
+Prices for your other data vary mainly depending on demographics. For example, information on men is worth USD 0.15, slightly more than information on women (USD 0.14). Data from people with a higher income is generally worth more - With one exception, if your household earns less than \$10,000 per year, companies will pay more for your data than for a family with an income of up to \$120,000. This is probably because companies think you are a young student who is more likely to talk about products on social media. [8]
 
-The high value placed on social influence could also be observed somewhere else: Klout was a platform that used social media analytics to rate the social influence of its users through a "Klout Score", based on network size and interactions with their content. Data on users with high social influence was sold by the site for around $3 at the time. The company ceased operations in May 2018, with the introduction of new data protection regulations being a major factor. [4],[9]
+The high value placed on social influence could also be observed somewhere else: Klout was a platform that used social media analytics to rate the social influence of its users through a "Klout Score", based on network size and interactions with their content. Data on users with high social influence was sold by the site for around \$3 at the time. The company ceased operations in May 2018, with the introduction of new data protection regulations being a major factor. [4],[9]
 
 Key determinants of it's price also include the quality and dimensionality of the data. The more I know about you, the more meaningful are the conclusions I can draw. The informative value of a data set that only contains your name is significantly lower than that of a data set that also contains your place of residence, your age, your occupation, your interests and your purchasing behaviour. High-dimensional data provides a richer picture and can be more valuable for analysis, prediction or targeted marketing.
 
@@ -59,23 +60,23 @@ To understand this, we first need to be clear about the difference between the p
 
 Facebook generates higher profits by using your personal data to run targeted advertising campaigns. A researcher, on the other hand, sees value in large data sets that help them identify patterns or trends. The subjective value that these two place on your personal shopping data will vary greatly. 
 
-A commonly used benchmark for the relevance of your personal data to social networks is the average revenue per user (ARPU) metric. Meta (Facebook + Instagram) generates $235 in revenue per American user annually, almost exclusively for serving personalised ads. For EU citizens, it is significantly less at around USD 70 per user, although this figure probably varies greatly depending on the income of the member state. [10],[11]
+A commonly used benchmark for the relevance of your personal data to social networks is the average revenue per user (ARPU) metric. Meta (Facebook + Instagram) generates \$235 in revenue per American user annually, almost exclusively for serving personalised ads. For EU citizens, it is significantly less at around USD 70 per user, although this figure probably varies greatly depending on the income of the member state. [10],[11]
 
-So not showing ads to an average user from a high-income country costs Meta around $200. In fact, this figure is strikingly close to the price the company charges users for an ad-free experience. 
+So not showing ads to an average user from a high-income country costs Meta around \$200. In fact, this figure is strikingly close to the price the company charges users for an ad-free experience. 
 
 But is that really the value Meta places on your data? In Facebook's advertising model, your personal data is just one piece of the puzzle. Advertisers pay for the data to accurately target their audience, but they also pay for the access to potential that audience, i.e. your attention. It's important to distinguish what part of the ARPU is attributable to the data itself and what part the companies are paying just to have an ad show up in your feed.
 
 According to a study by the Network Advertising Initiative, advertisers are willing to pay 2.68 times more for personalised advertising than for non-personalised advertising [12]. This is because targeted advertising is twice as effective at converting users who click on the ad into buyers. 
 
-This figure can be used for a rough estimate of the value of your personal data to the online advertising industry. Applied to Meta's $235 ARPU, this results in an annual value of about $147 (or $12.25 per month) for the average user's personal data. With an ARPU of around USD 420 for the entire online advertising industry [13], this results in a value of USD 263 per year (or USD 22 per month). 
+This figure can be used for a rough estimate of the value of your personal data to the online advertising industry. Applied to Meta's \$235 ARPU, this results in an annual value of about \$147 (or \$12.25 per month) for the average user's personal data. With an ARPU of around USD 420 for the entire online advertising industry [13], this results in a value of USD 263 per year (or USD 22 per month). 
 
 However, the digital advertising industry is only one sector where your data is used and utilised. The data broker market also serves a variety of other industries that need user data to make predictions or decisions. In most cases, the data does not even have to be personalised, i.e. attributable to a specific person.
 
-For example, foot traffic data helps inform key decisions in the real estate, retail and investment sector by measuring customer visits and origin and providing insights for shop location selection, investment decisions and marketing campaigns. The New York-based startup Thasos Group charges some hedge funds up to $1 million a year for "alternative data," such as pseudonymised location data, to help securities traders predict stock trends. [14]
+For example, foot traffic data helps inform key decisions in the real estate, retail and investment sector by measuring customer visits and origin and providing insights for shop location selection, investment decisions and marketing campaigns. The New York-based startup Thasos Group charges some hedge funds up to \$1 million a year for "alternative data," such as pseudonymised location data, to help securities traders predict stock trends. [14]
 
-Medical data, especially when combined with advanced analytics and artificial intelligence, can not only generate profits but also contribute significantly to the development of new drugs and treatments. According to a study by EY, the value of a single patient record is estimated at over £100. Combining genomic and phenotypic data can increase this value to over £1000 per record. A curated dataset from the UK's public health system , the NHS, is estimated to be worth around £5 billion per year, or £91 (~$110) per patient. [15]
+Medical data, especially when combined with advanced analytics and artificial intelligence, can not only generate profits but also contribute significantly to the development of new drugs and treatments. According to a study by EY, the value of a single patient record is estimated at over £100. Combining genomic and phenotypic data can increase this value to over £1000 per record. A curated dataset from the UK's public health system , the NHS, is estimated to be worth around £5 billion per year, or £91 (~\$110) per patient. [15]
 
-To summarise: the price companies are willing to pay for your data depends largely on what they can expect to earn using that data. In terms of our data paradox, this means that Amazon values your purchase data at at least $10. Which makes sense - Amazon is probably the company with one of the highest ARPUs in the world. By linking your purchase data to existing information, they can not only optimise their personalised advertising for you, but also improve their overall advertising strategy for all users on the platform. 
+To summarise: the price companies are willing to pay for your data depends largely on what they can expect to earn using that data. In terms of our data paradox, this means that Amazon values your purchase data at at least \$10. Which makes sense - Amazon is probably the company with one of the highest ARPUs in the world. By linking your purchase data to existing information, they can not only optimise their personalised advertising for you, but also improve their overall advertising strategy for all users on the platform. 
 
 ## Who asked for your opinion anyway?
 
@@ -95,7 +96,7 @@ What can we learn from this for our data paradox? For data brokers, the cost of 
 
 ## Conclusion: The future of the data economy
 
-Businesses value your data because they can use it to generate profits. For advertisers, the data you generate in a year is worth about $263, for the medical industry potentially around $110, maybe much more. However, the price that companies pay to buy your data (e.g. from data brokers) is far below the value they derive from it, and also below the personal value you are likely to place on your own data. 
+Businesses value your data because they can use it to generate profits. For advertisers, the data you generate in a year is worth about \$263, for the medical industry potentially around \$110, maybe much more. However, the price that companies pay to buy your data (e.g. from data brokers) is far below the value they derive from it, and also below the personal value you are likely to place on your own data. 
 
 The economic value that can be derived from personal data is immense. Companies are therefore increasingly willing to offer users money for their data if they are unable to obtain it in other ways, for example because regulation prevents them from doing so. As property rights shift from the companies that collect data to the users who generate it, the price of personal data is likely to increase.
 
