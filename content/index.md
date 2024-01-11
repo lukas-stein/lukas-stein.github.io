@@ -1,6 +1,6 @@
 ---
 title: Welcome to my Notes  🌱
 ---
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+# What I'm working on right now
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+I am currently working on Datapods, a Startup I co-founded in July 2022.
