@@ -6,7 +6,7 @@ slug: index
 
 ## What I'm working on right now
 
-I am currently working on [Datapods](https://www.datapods.app/), a startup I co-founded in July 2022. So far, we have received about €360K in non-dilutive funding. I research data markets and the [value of personal data](articles/what-your-data-is-actually-worth). Sometimes I work on the Datapods app. 
+I am currently working on [Datapods](articles/datapods), a startup I co-founded in July 2022. So far, we have received about €360K in non-dilutive funding. I research data markets and the [value of personal data](articles/what-your-data-is-actually-worth). Sometimes I work on the Datapods app. 
 
 ## What I've been up to in the past
 
