@@ -15,4 +15,4 @@ With Datapods, we're pioneering a decentralized blockchain solution to transform
 
 # News
 
-We are excited to announce that Datapods has received 270k€ in funding from the "Start-up Transfer.NRW" program, marking a significant step in our mission to empower individuals within the data economy. [Read More...](https://www.datapods.app/blogs/datapods-secures-270keu-in-eu-funding-to-foster-a-human-centric-data-economy)
+**Bonn, 2023-12-22 •** We are excited to announce that Datapods has received 270k€ in funding from the "Start-up Transfer.NRW" program, marking a significant step in our mission to empower individuals within the data economy. [Read More...](https://www.datapods.app/blogs/datapods-secures-270keu-in-eu-funding-to-foster-a-human-centric-data-economy)
