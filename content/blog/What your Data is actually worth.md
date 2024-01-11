@@ -3,8 +3,13 @@ tags:
   - datapods
   - publish
 Related: 
-title: Was deine Daten Wert sind
+title: What Your Data is actually worth
+path: blog
 ---
+In an age where our digital footprints perpetually expand, understanding the intrinsic worth and applications of our personal data has never been more pivotal.
+
+![background 1.png](assets/background 1-57eab2ad5f27b7c8e347b37a67826745.png)
+
 If you're short on time, here's everything you need to know about the data economy, the value of your data and data marketplaces:
 
 - **Prices on the data market.** On the data market, data brokers sell user data for knockdown prices in the sub-cent range. The price of your data depends primarily on how companies assess your purchasing power and buying mood. The quality and dimensionality of the data also play a role.
@@ -99,19 +104,35 @@ Our navigation through the digital world is increasingly informed by a recogniti
 ---
 
 [1] ‘Meta (Facebook / Instagram) to Move to a “Pay for Your Rights” Approach’. Accessed 25 October 2023. [https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach](https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach).
+
 [2] tagesschau.de. ‘Meta erwägt offenbar Abo für werbefreies Instagram und Facebook’. Accessed 26 October 2023. [https://www.tagesschau.de/wirtschaft/verbraucher/meta-facebook-abo-100.html](https://www.tagesschau.de/wirtschaft/verbraucher/meta-facebook-abo-100.html).
+
 [3] Techjury. ‘Data Broker Statistics 2023 (Market Share & Trends)’. Accessed 26 October 2023. [https://techjury.net/blog/data-broker-statistics/](https://techjury.net/blog/data-broker-statistics/).
+
 [4] ‘Companies Scramble for Consumer Data’. Accessed 26 October 2023. [https://www.ft.com/content/f0b6edc0-d342-11e2-b3ff-00144feab7de](https://www.ft.com/content/f0b6edc0-d342-11e2-b3ff-00144feab7de).
+
 [5] ‘Amazon Shopper Panel’. Accessed 26 October 2023. [https://panel.amazon.com/](https://panel.amazon.com/).
+
 [6] Team, WebFX. ‘What Are Data Brokers - And What Is Your Data Worth? [Infographic]’. WebFX. Accessed 26 October 2023. [https://www.webfx.com/blog/internet/what-are-data-brokers-and-what-is-your-data-worth-infographic/](https://www.webfx.com/blog/internet/what-are-data-brokers-and-what-is-your-data-worth-infographic/).
+
 [7] Steel, Emily. ‘Financial Worth of Data Comes in at under a Penny a Piece’. _Financial Times_, 12 June 2013, sec. Financial Times. [https://www.ft.com/content/3cb056c6-d343-11e2-b3ff-00144feab7de](https://www.ft.com/content/3cb056c6-d343-11e2-b3ff-00144feab7de).
+
 [8] ‘Most Desired Data: Whose Is the Most in Demand, and How Much Is It Worth?’ Accessed 26 October 2023. [https://mackeeper.com/blog/most-desired-data/](https://mackeeper.com/blog/most-desired-data/).
+
 [9] Russell, Jon. ‘RIP Klout’. _TechCrunch_ (blog), 10 May 2018. [https://techcrunch.com/2018/05/10/rip-klout/](https://techcrunch.com/2018/05/10/rip-klout/).
+
 [10] Cuofano, Gennaro. ‘The Facebook ARPU Explained’. FourWeekMBA, 21 June 2023. [https://fourweekmba.com/facebook-arpu/](https://fourweekmba.com/facebook-arpu/).
+
 [11] ‘Facebook: Average Revenue per User Region 2023 | Statista’. Accessed 26 October 2023. [https://www.statista.com/statistics/251328/facebooks-average-revenue-per-user-by-region/](https://www.statista.com/statistics/251328/facebooks-average-revenue-per-user-by-region/).
+
 [12] Network Advertising Initiative. ‘STUDY FINDS BEHAVIORALLY-TARGETED ADS MORE THAN TWICE AS VALUABLE, TWICE AS EFFECTIVE AS NON-TARGETED ONLINE ADS’, 24 March 2010. [https://thenai.org/wp-content/uploads/2021/07/PR03242010.pdf](https://thenai.org/wp-content/uploads/2021/07/PR03242010.pdf).
+
 [13] ‘How Much It Would Cost to Get the Internet without Ads - Vox’. Accessed 26 October 2023. [https://www.vox.com/recode/2019/6/24/18715421/internet-free-data-ads-cost](https://www.vox.com/recode/2019/6/24/18715421/internet-free-data-ads-cost).
+
 [14] Dezember, Ryan. ‘Your Smartphone’s Location Data Is Worth Big Money to Wall Street’. _Wall Street Journal_, 2 November 2018, sec. Markets. [https://www.wsj.com/articles/your-smartphones-location-data-is-worth-big-money-to-wall-street-1541131260](https://www.wsj.com/articles/your-smartphones-location-data-is-worth-big-money-to-wall-street-1541131260).
+
 [15] EY. ‘Realising the Value of Health Care Data – a Framework for the Future’, 2019. [https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/life-sciences/life-sciences-pdfs/ey-value-of-health-care-data-v20-final.pdf](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/life-sciences/life-sciences-pdfs/ey-value-of-health-care-data-v20-final.pdf).
+
 [16] Staiano, Jacopo, Nuria Oliver, Bruno Lepri, Rodrigo de Oliveira, Michele Caraviello, and Nicu Sebe. ‘Money Walks – A Human-Centric Study on the Economics of Personal Mobile Data’. _arXiv.Org_, 2 July 2014. [https://doi.org/10.1145/2632048.2632074](https://doi.org/10.1145/2632048.2632074).
+
 [17] Spiekermann, Sarah, and Jana Korunovska. ‘Towards a Value Theory for Personal Data’. _Journal of Information Technology_ 32, no. 1 (1 March 2017): 62–84. [https://doi.org/10.1057/jit.2016.4](https://doi.org/10.1057/jit.2016.4).
