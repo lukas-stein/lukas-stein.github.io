@@ -1,7 +1,7 @@
 ---
 tags:
   - datapods
-title: Regain Control over you Personal Data with Datapods
+title: Regain Control over Your Personal Data with Datapods
 slug: datapods
 path: articles
 ---
