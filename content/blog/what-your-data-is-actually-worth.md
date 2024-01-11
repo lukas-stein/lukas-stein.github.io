@@ -20,7 +20,7 @@ If you're short on time, here's everything you need to know about the data econo
 
 --- 
 
-Facebook's parent company Meta has recently been reported to be considering a subscription model that would allow users to use Facebook and Instagram ad-free. The measure is a direct response to new European data protection regulations, which are intended to limit the processing of personal data for advertising purposes. [1]
+Facebook's parent company Meta has recently been reported to be considering a subscription model that would allow users to use Facebook and Instagram ad-free. The measure is a direct response to new European data protection regulations, which are intended to limit the processing of personal data for advertising purposes. [^1]
 
 A full subscription to both platforms is said to cost up to 192 euros a year [2]. Meta is putting a price on your privacy - you pay and they leave your personal data alone. But is that a fair price?
  
@@ -104,7 +104,7 @@ Our navigation through the digital world is increasingly informed by a recogniti
 
 ---
 
-[1] ‘Meta (Facebook / Instagram) to Move to a “Pay for Your Rights” Approach’. Accessed 25 October 2023. [https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach](https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach).
+[^1]: ‘Meta (Facebook / Instagram) to Move to a “Pay for Your Rights” Approach’. Accessed 25 October 2023. [https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach](https://noyb.eu/en/meta-facebook-instagram-move-pay-your-rights-approach).
 
 [2] tagesschau.de. ‘Meta erwägt offenbar Abo für werbefreies Instagram und Facebook’. Accessed 26 October 2023. [https://www.tagesschau.de/wirtschaft/verbraucher/meta-facebook-abo-100.html](https://www.tagesschau.de/wirtschaft/verbraucher/meta-facebook-abo-100.html).
 
