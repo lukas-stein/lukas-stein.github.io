@@ -1,5 +1,6 @@
 ---
 title: Welcome to my Notes  🌱
+slug: index
 ---
 # What I'm working on right now
 

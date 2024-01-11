@@ -1,11 +1,15 @@
 ---
 tags:
   - datapods
-  - publish
 Related: 
 title: What Your Data is actually worth
 path: blog
+slug: what-your-data-is-actually-worth
 ---
+In an age where our digital footprints perpetually expand, understanding the intrinsic worth and applications of our personal data has never been more pivotal.
+
+![data-worth-blog-image.png](/assets/data-worth-blog-image-61c86d5cd94666ab2af4d566613716ee.png)
+
 If you're short on time, here's everything you need to know about the data economy, the value of your data and data marketplaces:
 
 - **Prices on the data market.** On the data market, data brokers sell user data for knockdown prices in the sub-cent range. The price of your data depends primarily on how companies assess your purchasing power and buying mood. The quality and dimensionality of the data also play a role.
