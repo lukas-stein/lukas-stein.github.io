@@ -2,7 +2,8 @@
 tags:
   - datapods
   - personal-data
-Related: 
+Related:
+  - "Lukas Stein (2023) – Was sind meine Daten wert?"
 title: What Your Data is actually worth
 path: articles
 slug: what-your-data-is-actually-worth
@@ -11,7 +12,7 @@ In an age where our digital footprints perpetually expand, understanding the int
 
 > Read this article on [www.datapods.app](https://www.datapods.app/blogs/what-your-data-is-actually-worth)
 
-![data-worth-blog-image.png](/assets/data-worth-blog-image-61c86d5cd94666ab2af4d566613716ee.png)
+![data-worth-blog-image.png](/assets/data-worth-blog-image-5cf30aac1bb7306ca95eaff4118e13cf.png)
 
 If you're short on time, here's everything you need to know about the data economy, the value of your data and data marketplaces:
 
