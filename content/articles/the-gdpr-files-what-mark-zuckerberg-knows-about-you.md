@@ -7,13 +7,13 @@ slug:
 title: "The GDPR Files: What Mark Zuckerberg Knows About You"
 path: articles
 ---
-![Mark Zuckerberg (1).jpeg](/assets/Mark Zuckerberg (1)-239df610226b7be91f2ab1d3eee4e445.jpeg)
+![markzuck.jpeg](/assets/markzuck-f0a30751879156b687a0c63d17fb77ec.jpeg)
 
 The European Union's General Data Protection Regulation ("GDPR") is the most comprehensive privacy regulation in the world. If you're here, you probably already know that it allows you to request a copy of all the data a company holds about you. But have you ever tried it yourself? If you want to, here are some of the surprising things that you might find. 
 
 For the sake of simplicity, this article is divided into three sections, each dealing with one of the three levels of data collection. The deeper we go along this 'data iceberg', the less transparent become the means of data collection and the purposes for which the resulting information is used.
 
-![Data Iceberg@1.5x.png](/assets/Data Iceberg@1.5x-a74b246b0b1ba7a081fd39a48c7d59c9.png)
+![dataiceberg.png](/assets/dataiceberg-faee8c7bd1384d27f6b2ac1cf307d84f.png)
 
 # Level 1: Volunteered Data
 
@@ -27,7 +27,7 @@ It should come as no surprise that internet platforms store and use the data you
 
 But that's not all: Did you know that many services track everything you do on their website, even if you don't click on anything? The resulting data is often used to optimise a site's usability or to find out what type of content you look at the longest. This is what it looks like when we enable session replays in our website analytics tool (PostHog). You're watching Jakob trying to subscribe to our newsletter for the second time because it's just so damn good. Look at him go!
 
-![Screen Recording.gif](/assets/Screen Recording-4cb053e145c91de7497489d7fb6b52cd.gif)
+![posthog_recordings.gif](/assets/posthog_recordings-05146ec3ceb4b6cc576e5ab9011be26a.gif)
 
 Some analytics tools will also save the information you type into a text field even if you don't press a button to submit it. So be careful about entering passwords or sensitive information in fields that aren't explicitly marked as password fields, or on a site you don't trust.
 
@@ -43,7 +43,7 @@ Ever wondered why you sometimes start seeing ads on Facebook for items you looke
 
 But there's more: I recently requested a copy of my data from Payback, the Master Card owned retail bonus program. I got the entire record of my real-life in-store purchases that I made using my royalty card plus a detailed history of whenever I was close to one of their partner stores. Or are you trying to remember what song you were listening to on May 9th 2022 at 6:28 am? Don't worry, Spotify's got you covered with a complete streaming history. 
 
-![Bildschirmfoto 2024-02-28 um 23.32.26.png](/assets/Bildschirmfoto 2024-02-28 um 23.32.26-fec6f7ead5012b8bb9493787e3cc9857.png)
+![spotify_history.png](/assets/spotify_history-751d7773ba6ef3a9b92e743c288d5810.png)
 
 The few examples provided above really only scratch the surface of the collected data that could be out there about you. The amount of usage data that companies collect is enormous. Just the folder of my information from selected Google services, contains 3.7 GBs worth of raw data stored in more than 5,000 individual files. 
 
@@ -57,7 +57,7 @@ In addition to your detailed location history, google also uses the speed at whi
 
 The data provided by Meta under the GDPR also contains a list of your inferred interests for content (e.g., `your_topics.json` for instagram) and advertising (e.g., `ads_interests.html` for Facebook). Instagram thinks I'm into "Food", "Travel Destinations" and "Interior Design", which is pretty accurate. However, I was also marked down for the category "Bugs & Worms", a hobby I have yet to discover. 
 
-![Bildschirmfoto 2024-02-28 um 12.28.37.png](/assets/Bildschirmfoto 2024-02-28 um 12.28.37-27e6ac7d242c4950bf7e4067ada2e5e6.png)
+![bugsandworms.png](/assets/bugsandworms-00c97f79eb43e8495efd566ceda9a8a0.png)
 
 If a user is into US-Politics, Facebook might even make assumptions about their political affiliation, which also show up here. Advertisers can use this information to show politically targeted content. 
 
