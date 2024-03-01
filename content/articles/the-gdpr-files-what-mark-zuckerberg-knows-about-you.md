@@ -43,7 +43,20 @@ Ever wondered why you sometimes start seeing ads on Facebook for items you looke
 
 But there's more: I recently requested a copy of my data from Payback, the Master Card owned retail bonus program. I got the entire record of my real-life in-store purchases that I made using my royalty card plus a detailed history of whenever I was close to one of their partner stores. Or are you trying to remember what song you were listening to on May 9th 2022 at 6:28 am? Don't worry, Spotify's got you covered with a complete streaming history. 
 
-![spotify_history.png](/assets/spotify_history-751d7773ba6ef3a9b92e743c288d5810.png)
+```json
+{
+	"endTime" : "2022-05-09 06:28",
+	"artistName" : "alt-J",
+	"trackName" : "Breezeblocks",
+	"msPlayed" : 1340
+},
+{
+	"endTime" : "2022-05-09 06:28",
+	"artistName" : "Monolink",
+	"trackName" : "Return to Oz - ARTBAT Remix",
+	"msPlayed" : 260493
+},
+```
 
 The few examples provided above really only scratch the surface of the collected data that could be out there about you. The amount of usage data that companies collect is enormous. Just the folder of my information from selected Google services, contains 3.7 GBs worth of raw data stored in more than 5,000 individual files. 
 
@@ -57,7 +70,20 @@ In addition to your detailed location history, google also uses the speed at whi
 
 The data provided by Meta under the GDPR also contains a list of your inferred interests for content (e.g., `your_topics.json` for instagram) and advertising (e.g., `ads_interests.html` for Facebook). Instagram thinks I'm into "Food", "Travel Destinations" and "Interior Design", which is pretty accurate. However, I was also marked down for the category "Bugs & Worms", a hobby I have yet to discover. 
 
-![bugsandworms.png](/assets/bugsandworms-00c97f79eb43e8495efd566ceda9a8a0.png)
+```json
+{
+	"title": "",
+	"media_map_data": {
+	},
+	"string_map_data": {
+		"Name": {
+			"href": "",
+			"value": "Bugs & Worms",
+			"timestamp": 0
+		}
+	}
+},
+```
 
 If a user is into US-Politics, Facebook might even make assumptions about their political affiliation, which also show up here. Advertisers can use this information to show politically targeted content. 
 
