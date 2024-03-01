@@ -7,7 +7,8 @@ slug:
 title: "The GDPR Files: What Mark Zuckerberg Knows About You"
 path: articles
 ---
-![markzuck.jpeg](/assets/markzuck-f0a30751879156b687a0c63d17fb77ec.jpeg)
+
+![zucked.jpeg](/assets/zucked-4255a7cbf1c324441cff371faa26a9a5.jpeg)
 
 The European Union's General Data Protection Regulation ("GDPR") is the most comprehensive privacy regulation in the world. If you're here, you probably already know that it allows you to request a copy of all the data a company holds about you. But have you ever tried it yourself? If you want to, here are some of the surprising things that you might find. 
 
