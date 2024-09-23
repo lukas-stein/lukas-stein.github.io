@@ -1,20 +1,20 @@
 ---
 tags:
   - datapods
-  - publish
-Related: 
+Related:
+  - "[Die GDPR Files – Was Mark Zuckerberg über dich weiß](/die-gdpr-files-was-mark-zuckerberg-ber-dich-wei)"
 slug: 
 title: "The GDPR Files: What Mark Zuckerberg Knows About You"
 path: articles
 ---
 
-![zucked.jpeg](/assets/zucked-4255a7cbf1c324441cff371faa26a9a5.jpeg)
+![zucked.jpeg](/assets/zucked-73b22be24462c087ae4be678e49bc724.jpeg)
 
 The European Union's General Data Protection Regulation ("GDPR") is the most comprehensive privacy regulation in the world. If you're here, you probably already know that it allows you to request a copy of all the data a company holds about you. But have you ever tried it yourself? If you want to, here are some of the surprising things that you might find. 
 
-For the sake of simplicity, this article is divided into three sections, each dealing with one of the three levels of data collection. The deeper we go along this 'data iceberg', the less transparent become the means of data collection and the purposes for which the resulting information is used.
+This article is divided into three sections, each dealing with one of the three levels of data collection. The deeper we go along this 'data iceberg', the less transparent become the means of data collection and the purposes for which the resulting information is used.
 
-![dataiceberg.png](/assets/dataiceberg-faee8c7bd1384d27f6b2ac1cf307d84f.png)
+![dataiceberg.png](/assets/dataiceberg-bd15aa0a6b9c62e2be4768f159fec7d6.png)
 
 # Level 1: Volunteered Data
 
@@ -28,7 +28,7 @@ It should come as no surprise that internet platforms store and use the data you
 
 But that's not all: Did you know that many services track everything you do on their website, even if you don't click on anything? The resulting data is often used to optimise a site's usability or to find out what type of content you look at the longest. This is what it looks like when we enable session replays in our website analytics tool (PostHog). You're watching Jakob trying to subscribe to our newsletter for the second time because it's just so damn good. Look at him go!
 
-![posthog_recordings.gif](/assets/posthog_recordings-05146ec3ceb4b6cc576e5ab9011be26a.gif)
+![posthog_recordings.gif](/assets/posthog-recordings-ca83333520590cf15d6670a547d1b3fb.gif)
 
 Some analytics tools will also save the information you type into a text field even if you don't press a button to submit it. So be careful about entering passwords or sensitive information in fields that aren't explicitly marked as password fields, or on a site you don't trust.
 
@@ -65,9 +65,9 @@ However, just knowing that you ate an entire box of 20 Chicken McNuggets on a we
 
 # Level 3: Inferred Data
 
-This is where it gets really interesting. Data storage isn't free, and tech companies wouldn't be collecting gigabytes of information about you if they didn't think it would be useful at some point. The truth is that they need these vast amounts of data for analysis. The results can be used to categorize you into groups for targeted advertising or improved content suggestions. 
+This is where it gets really interesting. Data storage isn't free, and tech companies wouldn't be collecting gigabytes of information about you if they didn't think it would be useful at some point. The truth is that they need these vast amounts of data for analysis. The results can be used to improve certain services or to categorize you into groups for targeted advertising or content suggestions. 
 
-In addition to your detailed location history, google also uses the speed at which you're traveling and a variety of other factors to figure out what method of transport you're using. It also makes guesses about the route and timing of your daily commute. 
+For example, in addition to your detailed location history, google also uses the speed at which you're traveling and a variety of other factors to figure out what method of transport you're using. It also makes guesses about the route and timing of your daily commute. 
 
 The data provided by Meta under the GDPR also contains a list of your inferred interests for content (e.g., `your_topics.json` for instagram) and advertising (e.g., `ads_interests.html` for Facebook). Instagram thinks I'm into "Food", "Travel Destinations" and "Interior Design", which is pretty accurate. However, I was also marked down for the category "Bugs & Worms", a hobby I have yet to discover. 
 
@@ -88,9 +88,9 @@ The data provided by Meta under the GDPR also contains a list of your inferred i
 
 If a user is into US-Politics, Facebook might even make assumptions about their political affiliation, which also show up here. Advertisers can use this information to show politically targeted content. 
 
-However, if you're launching a political campaign to convince people to vote for you, the categories provided by Facebook might be a bit too blunt. But don't worry, there's a solution! Remember the "audience lists" from before, that allowed firms to combine their own data with Facebook's? Back in 2018 Facebook got in trouble for allowing a political consulting firm called "Cambridge Analytica" to do exactly that. 
+However, if you're launching a political campaign to convince people to vote for you, the categories provided by Facebook might be a bit too blunt. But there's a solution. Remember the "audience lists" from before, that allowed firms to combine their own data with Facebook's? Back in 2018 Facebook got in trouble for allowing a political consulting firm called "Cambridge Analytica" to do exactly that. 
 
-CA used users' psychological profiles they previously obtained through a survey and combined it with data on their Facebook friends to target swing voters and show them content that would discredit their client's opponent. While the overall effectiveness of the campaign remains uncertain, this illustrates one of the many ways, that companies and political actors can combine the previously mentioned tools with powerful data analysis to their advantage. 
+CA used psychological profiles of users obtained through a survey and combined them with data on their Facebook friends to target swing voters and show them content that would discredit their client's opponent. While the overall effectiveness of the campaign remains uncertain, it illustrates one of the many ways that companies and political actors can combine the aforementioned tools with powerful data analytics tans use them to their advantage.
 
 But that's not all: When companies aren't using their 1,000 bibles worth of your personal information to influence your voting behavior or decide whether you're more of a bug or a worm person, they can get pretty creative with it. 
 

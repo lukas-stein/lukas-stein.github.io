@@ -3,7 +3,7 @@ tags:
   - datapods
 title: Regain Control over Your Personal Data with Datapods
 slug: datapods
-path: articles
+path: projects
 Related:
   - "Datapods GbR"
 ---
@@ -11,7 +11,7 @@ Think of a Datapod as a secure vault for all your personal data that is fully en
 
 > Find out more on [www.datapods.app](https://www.datapods.app)
 
-![2023-12-21_Datapods-Team-Foto.png](/assets/2023-12-21_Datapods-Team-Foto-cca5a6c316fa94d40c0bf53014d624d0.png)
+![2023-12-21_Datapods-Team-Foto.png](/assets/2023-12-21-datapods-team-foto-cca5a6c316fa94d40c0bf53014d624d0.png)
 
 With Datapods, we're pioneering a decentralized blockchain solution to transform how personal data is controlled and monetized in the EU. Our app enables individuals to manage their data from platforms like Google and Facebook with full transparency. Users can now monetize their data, while businesses gain access to ethically sourced first-party data. At Datapods, we're committed to a fair and sustainable data economy, ensuring user rights and empowering European businesses through secure, blockchain-enhanced data exchange.
 
