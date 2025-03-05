@@ -15,3 +15,8 @@ I am currently working on [Datapods](projects/datapods), a startup I co-founded 
 - Valued Infrastructure Assets at FGS
 - Wrote my Bachelor's Thesis about a Russian Gas Storage Facility in Rehden
 - Co-founded [Science to Startup](https://www.s2s-bonn.de/), a student initiative for Start-ups with a focus on science
+
+# Other Links
+
+- My Github: [lukas-stein](https://github.com/lukas-stein)
+- My LinkedIn: [lukas-p-stein](https://www.linkedin.com/in/lukas-p-stein/)

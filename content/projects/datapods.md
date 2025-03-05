@@ -5,7 +5,7 @@ title: Regain Control over Your Personal Data with Datapods
 slug: datapods
 path: projects
 Related:
-  - "Datapods GbR"
+  - "Datapods GmbH"
 ---
 Think of a Datapod as a secure vault for all your personal data that is fully encrypted. But it's much more than that.
 

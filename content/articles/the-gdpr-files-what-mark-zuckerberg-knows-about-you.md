@@ -2,7 +2,7 @@
 tags:
   - datapods
 Related:
-  - "[Die GDPR Files – Was Mark Zuckerberg über dich weiß](/die-gdpr-files-was-mark-zuckerberg-ber-dich-wei)"
+  - "Die GDPR Files – Was Mark Zuckerberg über dich weiß"
 slug: 
 title: "The GDPR Files: What Mark Zuckerberg Knows About You"
 path: articles
