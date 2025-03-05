@@ -10,7 +10,7 @@ path: articles
 
 ![zucked.jpeg](/assets/zucked-73b22be24462c087ae4be678e49bc724.jpeg)
 
-The European Union's General Data Protection Regulation ("GDPR") is the most comprehensive privacy regulation in the world. If you're here, you probably already know that it allows you to request a copy of all the data a company holds about you. But have you ever tried it yourself? If you want to, here are some of the surprising things that you might find. 
+The European Union's General Data Protection Regulation ("GDPR") is the most comprehensive privacy regulation in the world. If you're here, you probably already know that it allows you to request a copy of all the data a company holds about you. But have you ever tried it yourself? If you want to, here are some of the surprising things that you might find.
 
 This article is divided into three sections, each dealing with one of the three levels of data collection. The deeper we go along this 'data iceberg', the less transparent become the means of data collection and the purposes for which the resulting information is used.
 
